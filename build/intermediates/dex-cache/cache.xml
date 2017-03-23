@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/library-2.4.0_4287e81343a5ed45890efd2a1da664af9c89d4e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_c25aa58f1578d7b8d28ddcec11d1ed3efd4a2a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_450ce46dfc9e13d1f6f9e0dd6d07d8bae17612d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_8aa5daf1310add553dcf53c7931e399c24e6a046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_d046b7f0e382628d514cb1e76469a6f900fb13f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_e4cd17ee183d1920adbca4982707f6ec99c51dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_89bffd8bfdc653f65ecfdf2cab008e9e565cf06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.thefinestartist/utils/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c257801a8f17ba722a2658c3f4e799c395c5bc0">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.thefinestartist-utils-0.9.0_38c7bf43a079ae8851cf4953bea0ce7a8bc9899c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_5de6902f5795cc43cd55ea8c60bc478e6ec95212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_15a332704ef2197d47457e77647be1db2d5bcc64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/.gradle/caches/modules-2/files-2.1/com.thefinestartist/annotations/0.9.0/b69d23b00ca5fd30feea91ab4b24a192d6b928ef/annotations-0.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b69d23b00ca5fd30feea91ab4b24a192d6b928ef">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/annotations-0.9.0_9dd54b93f83f096d6d03882c0c0a1756a6fb8e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_851f86e5da2ad69f592b3d97a79d4719fb3cf128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_bf00c439268bef8b009876ee20a46b3033a0d379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_86a3031c74c87b860bb81008abf7b8c29544fa45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_66bc66fd4e43c22d9756a97ffbbed73729a3d650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eapple/Downloads/entekhabman/app/build/intermediates/exploded-aar/com.thefinestartist/finestwebview/1.2.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="79d618ba6bd0d7e61f5cb8c3a958cde5cf02efcd">
+        <dex dex="/Users/eapple/Downloads/entekhabman/app/build/intermediates/pre-dexed/debug/com.thefinestartist-finestwebview-1.2.7_6f589ce143f474b934deec80065e3bc21ac26c6f.jar" />
+    </item>
+
+</items>
